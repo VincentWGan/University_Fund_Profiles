@@ -93,8 +93,8 @@ financial returns and measurable impact.
 
 Companies and entrepreneurs that have successfully gone through our process typically 
 feature:
-Products or services that have demonstrated market traction (through customer usage or 
+- Products or services that have demonstrated market traction (through customer usage or 
 existing revenues)
-Dedicated leaders with a desire to make a social impact in one of the Fund's target 
+- Dedicated leaders with a desire to make a social impact in one of the Fund's target 
 sectors
-C-Corp and B-Corp structures
+- C-Corp and B-Corp structures
