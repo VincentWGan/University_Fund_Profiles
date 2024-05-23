@@ -20,7 +20,7 @@ parent: "Venture Fund"
 
 Associated University: Stanford University
 
-Website: https://gsbimpactfund.stanford.edu
+Website: (https://gsbimpactfund.stanford.edu)
 
 Key Contact Name: Hallie Mittleman
 

@@ -20,7 +20,7 @@ parent: "Angel Network"
 
 Associated University: Stanford University
 
-Website: https://stanfordaande.com/about/
+Website: (https://stanfordaande.com/about/)
 
 Key Contact Name:
 
