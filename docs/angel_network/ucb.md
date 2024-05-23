@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Wharton Alumni Angels"
-nav_order: 2
+title: "University of California, Berkley"
+nav_order: 8
 parent: "Angel Network"
 ---
 

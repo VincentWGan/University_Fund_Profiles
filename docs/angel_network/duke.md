@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Wharton Alumni Angels"
-nav_order: 2
+title: "Duke University"
+nav_order: 13
 parent: "Angel Network"
 ---
 

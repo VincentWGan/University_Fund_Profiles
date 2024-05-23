@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Wharton Alumni Angels"
-nav_order: 2
+title: "MIT"
+nav_order: 5
 parent: "Angel Network"
 ---
 

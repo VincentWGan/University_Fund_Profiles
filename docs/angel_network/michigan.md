@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Wharton Alumni Angels"
-nav_order: 2
+title: "University of Michigan, Ann Arbor"
+nav_order: 14
 parent: "Angel Network"
 ---
 
