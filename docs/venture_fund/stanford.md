@@ -17,10 +17,9 @@ parent: "Venture Fund"
 ---
 
 ## Basic Information
+[Website](https://gsbimpactfund.stanford.edu)
 
 Associated University: Stanford University
-
-[Website](https://gsbimpactfund.stanford.edu)
 
 Key Contact Name: Hallie Mittleman
 
@@ -39,6 +38,8 @@ Legal Entity Used for Investments:
 Fund Size:
 
 Current Number of Portfolio Companies: 18
+
+[Portfolio Companies](https://gsbimpactfund.stanford.edu/portfolio)
 
 Typical Individual Investment Size: 25000 - 75000
 

@@ -17,10 +17,9 @@ parent: "Angel Network"
 ---
 
 ## Basic Information
+[Website](https://stanfordaande.com/about/)
 
 Associated University: Stanford University
-
-[Website](https://stanfordaande.com/about/)
 
 Key Contact Name:
 
@@ -31,6 +30,8 @@ Responsible College/Department: Independent
 Year Established: 2010
 
 Current Number of Portfolio Companies: 56
+
+[Portfolio Companies](https://stanfordaande.com/portfolio/)
 
 ## Membership Description
 

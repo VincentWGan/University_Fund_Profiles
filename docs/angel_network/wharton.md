@@ -17,10 +17,9 @@ parent: "Angel Network"
 ---
 
 ## Basic Information
+[Website](https://www.whartonalumniangels.com)
 
 Associated University: University of Pennsylvania
-
-[Website](https://www.whartonalumniangels.com)
 
 Key Contact Name: 
 
@@ -31,6 +30,8 @@ Responsible College/Department: Independent
 Year Established: 2016
 
 Current Number of Portfolio Companies: 60
+
+[Portfolio Companies](https://www.whartonalumniangels.com/portfolio)
 
 ## Membership Description
 
@@ -117,4 +118,107 @@ You can access the deal flow management platform via the Member Portal. We use a
 member-only, online tool for managing our deal funnel and pre-investment workflow. Most 
 members will have view-only rights for deals. Other members (such as screening committee 
 members and admins) have expanded user rights.
+
+### What is the minimum investment amount? 
+
+This is a multi-part question.
+
+Each company we seek to invest in may set their own minimum check size. Wharton Alumni 
+Angels syndicate all of our members' investments in a company into an SPV and we then 
+write one check to the company. If our aggregate investment from all interested members 
+is below a company's minimum we may not be able to invest.
+For any single investment in a company, a member's minimum check size is $5,000 USD or 
+equivalent.
+Per the member agreement, we expect our Full Members to invest $20,000 USD per year on 
+average. In years when a Full member cannot do so, we ask that members contribute time to
+volunteer by supporting the deal process.
+Investors also share the expenses of servicing the SPV. See the separate question 
+regarding SPV expenses.
+
+### How are deal negotiations managed? 
+
+One of the investors in the deal will serve as the 'Deal Lead'. This person is a single 
+point of contact for the entrepreneur. The regional Managing Director and the Club 
+President should be informed periodically on the proposed deal terms in case there are 
+terms that won’t work for our structure or may otherwise adversely compromise our 
+position in the deal.
+
+If none of the deal investors feel experienced enough to negotiate deal terms, one of our 
+leadership team members or an experienced member will help, but we would like an investor 
+in the deal to act as the Deal Lead.
+
+We prefer to only invest in deals when we have Financial Information Rights and Pro Rata 
+rights in follow-on financings. We have a standard side letter for those and other deal 
+terms if needed.
+
+As a policy, Wharton Alumni Angels does not participate in Rule 506(c) offerings or 
+invest in 'pass-through' operating companies such as sole proprietorships, partnerships, 
+S-corporations, and LLCs. Ask our leadership team for support if these are unfamiliar to 
+you.
+
+### What is the Due Diligence process? 
+
+Full Members who are investing in the deal are in charge of performing due diligence. We 
+can support the investors as needed based on their experience. Some information will be 
+provided by the companies. Companies may have an online Data Room, but most early-stage 
+companies will not. We typically store any information from the company or from other 
+sources on the deal management platform. If investors wish to conduct other research on 
+the market, technology or industry that is the responsibility of the investors in the 
+deal. We have members who are experts in many fields, and investors can ask each other 
+for support. If investors need guidance on deal terms, investor rights, or similar, we do 
+have access to legal counsel when it is warranted. For the vast majority of deals, the 
+terms are straight forward, and questions can be answered by experienced members.
+
+### How are are Wharton Alumni Angels' deals syndicated for its members? 
+
+We invest via a suitable Special-Purpose-Vehicle (SPV) usually a Delaware LLC. The 
+Operating Agreements and Subscription Agreements are available on the member portal.
+
+SPV expenses are paid by investors. For each investment the SPV collects an expense 
+allocation from members to cover costs of the LLC (e.g., set-up, accounting, tax 
+preparation, government tax or fees). There is an annual cap on these fees, thus the more 
+our members invest the lower the expenses are as a percentage of invested capital.
+
+Full Members contribute to expenses only when they invest. When they do not make a new 
+investment there are no recurring fees.
+
+Wharton Alumni Angels only collects expenses for actual expenses. Wharton Alumni Angels 
+does not charge a management fee and does not collect carried interest.
+
+### What securities are used for a typical investment? 
+
+Each deal security type is unique and may be different from others. We've invested using 
+Convertible Notes, SAFEs, Preferred Stock, and Debt with Warrant Coverage. Common stock 
+deals are unusual.
+
+As a policy, Wharton Alumni Angels does not participate in Rule 506(c) offerings, nor 
+pass-through operating companies such as sole proprietorships, partnerships, 
+S-corporations, and LLCs.
+
+### Does Wharton Alumni Angels co-invest or share deals with other investors? 
+
+We do often invite other angel networks or VC firms to invest in companies we are in 
+contact with but, in doing so, we follow normal prudence and business etiquette. Before 
+sharing any deal with others we obtain permission from the entrepreneur to share the deal 
+as well as permission regarding which information we may share. Before sharing with other 
+investors we make the investment fully available to Wharton Alumni Angels investors 
+first, including in other regions around the world. Before sharing, we also make sure the 
+entrepreneur commits to an allocation in the deal for our investors so that our investors 
+are not excluded from the deal. Making a “backroom” deal that results in excluding other 
+Wharton Alumni Angels members from the deal is prohibited by our Member Agreement and may 
+result in loss of membership.
+
+### How are deals tracked post investment? 
+
+Investors have access to our SPV LP Portal. All financial information about an investor's 
+deals, cost basis, current valuation, and other metrics and data are available via the LP 
+portal.
+
+We have designated members who act as Portfolio Managers. These Portfolio Managers, along 
+with the Deal Leads continue to track the progress of portfolio companies and follow up 
+with companies at least once per quarter. When we have information rights we follow up 
+with the company to ensure they send financial reports, business reports and etc. We 
+always communicate to the company that we want to be informed of follow on financing, 
+even when we have pro rata rights.
+
 
