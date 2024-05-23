@@ -20,7 +20,7 @@ parent: "Angel Network"
 
 Associated University: University of Pennsylvania
 
-Website: (https://www.whartonalumniangels.com)
+[Website](https://www.whartonalumniangels.com)
 
 Key Contact Name: 
 
