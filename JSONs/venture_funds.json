@@ -659,6 +659,182 @@
           "opportunities": "Expansion into emerging markets, leveraging Columbia's global network",
           "threats": "Market volatility, economic downturns"
         }
+      },
+      {
+        "fund_name": "Duke Capital Partners",
+        "details": {
+          "size": "Not explicitly disclosed",
+          "region": "North America",
+          "industry_focus": ["Various sectors, including Technology, Healthcare"],
+          "investment_stage": "Early-Stage, Growth-Stage",
+          "year_founded": 2015,
+          "affiliated_university": "Duke University",
+          "parent_department": "Office for Translation & Commercialization",
+          "funding_source_type": "Endowment, Alumni Donations",
+          "funding_source_amount": "Not explicitly disclosed",
+          "legal_entity_used_for_investments": "Limited Partnership"
+        },
+        "performance_metrics": {
+          "ROI": "Not explicitly disclosed",
+          "IRR": "Not explicitly disclosed",
+          "average_time_to_exit_years": "Not explicitly disclosed",
+          "portfolio_company_survival_rate": "Not explicitly disclosed",
+          "follow_on_funding_rate": "Not explicitly disclosed",
+          "fundraising_efficiency": "Not explicitly disclosed",
+          "number_of_portfolio_companies": 44,
+          "typical_investment_size_per_company": "Not explicitly disclosed",
+          "typical_investment_form": "Equity",
+          "average_annual_number_of_investments": "Varies",
+          "total_amount_invested_to_date": "Not explicitly disclosed"
+        },
+        "impact_metrics": {
+          "jobs_created": 2500,
+          "economic_impact": "4B (combined enterprise value of portfolio companies)"
+        },
+        "best_practices": {
+          "investment_criteria": "Strong team, market potential, innovative technology",
+          "due_diligence_process": "Comprehensive market analysis, financial modeling, team assessment",
+          "governance_and_oversight": "Monthly reviews, experienced investment committee",
+          "support_services": "Mentoring, networking events, access to industry experts"
+        },
+        "qualitative_insights": {
+          "strengths": "Strong network, experienced management team",
+          "weaknesses": "Not explicitly disclosed",
+          "opportunities": "Expansion into emerging markets",
+          "threats": "Market volatility"
+        }
+      },
+      {
+        "fund_name": "Wolverine Venture Fund",
+        "details": {
+          "size": "10M",
+          "region": "North America",
+          "industry_focus": ["Technology", "Healthcare", "Consumer Products"],
+          "investment_stage": "Early-Stage",
+          "year_founded": 1997,
+          "affiliated_university": "University of Michigan",
+          "parent_department": "Ross School of Business",
+          "funding_source_type": "University Endowment, Alumni Donations",
+          "funding_source_amount": "10M",
+          "legal_entity_used_for_investments": "Limited Partnership"
+        },
+        "performance_metrics": {
+          "ROI": "15%",
+          "IRR": "10-12%",
+          "average_time_to_exit_years": 5,
+          "portfolio_company_survival_rate": "70%",
+          "follow_on_funding_rate": "60%",
+          "fundraising_efficiency": "85%",
+          "number_of_portfolio_companies": 30,
+          "typical_investment_size_per_company": "250K",
+          "typical_investment_form": "Equity",
+          "average_annual_number_of_investments": 5,
+          "total_amount_invested_to_date": "7.5M"
+        },
+        "impact_metrics": {
+          "jobs_created": 400,
+          "economic_impact": "150M"
+        },
+        "best_practices": {
+          "investment_criteria": "Innovative technology, strong team, market potential",
+          "due_diligence_process": "Market analysis, financial modeling, team assessment",
+          "governance_and_oversight": "Monthly reviews, experienced investment committee",
+          "support_services": "Mentoring, networking events, access to industry experts"
+        },
+        "qualitative_insights": {
+          "strengths": "Strong network, practical learning experience for students",
+          "weaknesses": "Limited to certain industries",
+          "opportunities": "Expansion into new markets and industries",
+          "threats": "Economic downturns, market volatility"
+        }
+      },
+      {
+        "fund_name": "BR Venture Fund (BRV)",
+        "details": {
+          "size": "Evergreen Fund",
+          "region": "North America",
+          "industry_focus": ["Technology", "Healthcare", "Various Industries"],
+          "investment_stage": "Early-Stage",
+          "year_founded": 2001,
+          "affiliated_university": "Cornell University",
+          "parent_department": "Johnson Graduate School of Management",
+          "funding_source_type": ["Donations", "Recycled Proceeds"],
+          "funding_source_amount": "Not specified",
+          "legal_entity_used_for_investments": "Not-for-Profit",
+          "number_of_portfolio_companies": 13,
+          "typical_investment_size_per_company": "$25,000",
+          "typical_investment_form": "Equity",
+          "average_annual_number_of_investments": 2,
+          "total_amount_invested_to_date": "Not specified"
+        },
+        "performance_metrics": {
+          "ROI": "Not specified",
+          "IRR": "Not specified",
+          "average_time_to_exit_years": "Not specified",
+          "portfolio_company_survival_rate": "Not specified",
+          "follow_on_funding_rate": "Not specified",
+          "fundraising_efficiency": "Not specified"
+        },
+        "impact_metrics": {
+          "jobs_created": "Not specified",
+          "economic_impact": "Not specified"
+        },
+        "best_practices": {
+          "investment_criteria": "High-growth potential, strong team, connection to Cornell",
+          "due_diligence_process": "Thorough market analysis, financial modeling, team assessment",
+          "governance_and_oversight": "Student-run with oversight from fund managers and advisors",
+          "support_services": "Mentoring, consulting services, access to Cornell resources"
+        },
+        "qualitative_insights": {
+          "strengths": "Strong university support, extensive network, hands-on student involvement",
+          "weaknesses": "Limited investment size per company",
+          "opportunities": "Expansion of investment size and scope, leveraging Cornell's technology",
+          "threats": "Market volatility, competition from larger funds"
+        }
+      },
+      {
+        "fund_name": "VentureBridge",
+        "details": {
+          "size": "Undisclosed",
+          "region": "North America",
+          "industry_focus": ["Technology", "Healthcare", "Consumer Products"],
+          "investment_stage": "Seed",
+          "year_founded": 2015,
+          "affiliated_university": "Carnegie Mellon University",
+          "parent_department": "Swartz Center for Entrepreneurship",
+          "funding_source_type": "Alumni Donations, University Endowment",
+          "funding_source_amount": "Undisclosed",
+          "legal_entity_used_for_investments": "Limited Partnership"
+        },
+        "performance_metrics": {
+          "ROI": "Varies by Investment",
+          "IRR": "Varies by Investment",
+          "average_time_to_exit_years": "5-7",
+          "portfolio_company_survival_rate": "75%",
+          "follow_on_funding_rate": "60%",
+          "fundraising_efficiency": "High",
+          "number_of_portfolio_companies": 40,
+          "typical_investment_size_per_company": "$50,000",
+          "typical_investment_form": "Equity",
+          "average_annual_number_of_investments": 10,
+          "total_amount_invested_to_date": "Undisclosed"
+        },
+        "impact_metrics": {
+          "jobs_created": "500+",
+          "economic_impact": "$200M+"
+        },
+        "best_practices": {
+          "investment_criteria": "Innovative technology, strong team, market potential",
+          "due_diligence_process": "Comprehensive market analysis, technical feasibility, team assessment",
+          "governance_and_oversight": "Monthly reviews, experienced investment committee",
+          "support_services": "Mentoring, office space, access to a large network of mentors and investors"
+        },
+        "qualitative_insights": {
+          "strengths": "Strong network, experienced management team, extensive alumni involvement",
+          "weaknesses": "Limited industry focus",
+          "opportunities": "Expansion into new technology sectors, increased funding sources",
+          "threats": "Market volatility, competition from other university funds"
+        }
       }
     ]
 }
