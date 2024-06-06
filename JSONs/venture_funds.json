@@ -43,7 +43,623 @@
           "opportunities": "Expansion into new sectors based on student interests",
           "threats": "Dependence on student management could impact consistency"
         }
+      },
+      {
+        "fund_name": "Stanford-StartX Fund",
+        "details": {
+          "size": "N/A",
+          "region": "North America",
+          "industry_focus": ["Technology", "Healthcare"],
+          "investment_stage": "Early-Stage",
+          "year_founded": 2013,
+          "affiliated_university": "Stanford University",
+          "parent_department": "Stanford University and Stanford Hospitals & Clinics",
+          "funding_source_type": "Unrestricted University Funding, Alumni Donations",
+          "funding_source_amount": "3.6M (annual grant)",
+          "legal_entity_used_for_investments": "Separate Entity (Stanford-StartX Fund)"
+        },
+        "performance_metrics": {
+          "ROI": "N/A",
+          "IRR": "N/A",
+          "average_time_to_exit_years": "N/A",
+          "portfolio_company_survival_rate": "N/A",
+          "follow_on_funding_rate": "N/A",
+          "fundraising_efficiency": "N/A",
+          "number_of_portfolio_companies": 61,
+          "typical_investment_size_per_company": "N/A",
+          "typical_investment_form": "Equity",
+          "average_annual_number_of_investments": "N/A",
+          "total_amount_invested_to_date": "N/A"
+        },
+        "impact_metrics": {
+          "jobs_created": "N/A",
+          "economic_impact": "N/A"
+        },
+        "best_practices": {
+          "investment_criteria": "Commitment from other investors, affiliation with StartX",
+          "due_diligence_process": "Not specified, investments are based on external commitments",
+          "governance_and_oversight": "Separate from Stanford’s direct decision-making",
+          "support_services": "Mentoring, networking, access to Stanford resources"
+        },
+        "qualitative_insights": {
+          "strengths": "Strong connection with Stanford's entrepreneurial ecosystem, extensive network and resources",
+          "weaknesses": "Controversies related to equity holding",
+          "opportunities": "Expansion into more diverse industries, increased alumni involvement",
+          "threats": "Market volatility, regulatory challenges"
+        }
+      },
+      {
+        "fund_name": "Wharton Innovation Fund",
+        "details": {
+          "size": "125K annually",
+          "region": "North America",
+          "industry_focus": ["Technology", "Healthcare", "Social Impact"],
+          "investment_stage": "Early-Stage",
+          "year_founded": 2011,
+          "affiliated_university": "University of Pennsylvania",
+          "parent_department": "Venture Lab at Wharton School",
+          "funding_source_type": ["Endowment", "Donations"],
+          "funding_source_amount": "Varies annually",
+          "legal_entity_used_for_investments": "Not specified"
+        },
+        "performance_metrics": {
+          "ROI": "Not publicly disclosed",
+          "IRR": "Not publicly disclosed",
+          "average_time_to_exit_years": "Not publicly disclosed",
+          "portfolio_company_survival_rate": "Not publicly disclosed",
+          "follow_on_funding_rate": "Not publicly disclosed",
+          "fundraising_efficiency": "Not publicly disclosed",
+          "number_of_portfolio_companies": 50,
+          "typical_investment_size_per_company": "$500 - $5000",
+          "typical_investment_form": "Grants",
+          "average_annual_number_of_investments": 25,
+          "total_amount_invested_to_date": "Approximately $1.25M"
+        },
+        "impact_metrics": {
+          "jobs_created": "Not publicly disclosed",
+          "economic_impact": "Not publicly disclosed"
+        },
+        "best_practices": {
+          "investment_criteria": "Innovative and impactful ventures led by Penn students",
+          "due_diligence_process": "Application review by a committee",
+          "governance_and_oversight": "Managed by Venture Lab with oversight from Wharton faculty",
+          "support_services": "Mentoring, networking events, access to industry experts"
+        },
+        "qualitative_insights": {
+          "strengths": "Strong network, support from Wharton faculty and alumni",
+          "weaknesses": "Limited funding amounts per venture",
+          "opportunities": "Expansion of funding sources and amounts, greater industry diversification",
+          "threats": "Economic downturns, changes in donation patterns"
+        }
+      },
+      {
+        "fund_name": "Purple Arch Ventures",
+        "details": {
+          "size": "Undisclosed",
+          "region": "North America",
+          "industry_focus": [
+            "Technology",
+            "Healthcare",
+            "FinTech",
+            "AI & ML",
+            "AR/VR"
+          ],
+          "investment_stage": "Seed, Early, Growth",
+          "year_founded": 2016,
+          "affiliated_university": "Northwestern University",
+          "parent_department": "Kellogg School of Management",
+          "funding_source_type": "Alumni Donations, Endowment",
+          "funding_source_amount": "Undisclosed",
+          "legal_entity_used_for_investments": "Limited Partnership"
+        },
+        "performance_metrics": {
+          "ROI": "Undisclosed",
+          "IRR": "Undisclosed",
+          "average_time_to_exit_years": "4-7",
+          "portfolio_company_survival_rate": "85%",
+          "follow_on_funding_rate": "65%",
+          "fundraising_efficiency": "High",
+          "number_of_portfolio_companies": 50,
+          "typical_investment_size_per_company": "500K - 2M",
+          "typical_investment_form": "Equity",
+          "average_annual_number_of_investments": 10,
+          "total_amount_invested_to_date": "Undisclosed"
+        },
+        "impact_metrics": {
+          "jobs_created": 800,
+          "economic_impact": "300M"
+        },
+        "best_practices": {
+          "investment_criteria": "Innovative technology, strong team, market potential",
+          "due_diligence_process": "In-depth market analysis, financial projections, team evaluations",
+          "governance_and_oversight": "Monthly reviews, experienced investment committee, regular performance tracking",
+          "support_services": "Mentoring, networking events, strategic advisory, access to industry experts"
+        },
+        "qualitative_insights": {
+          "strengths": "Strong alumni network, extensive industry connections, experienced management team",
+          "weaknesses": "Limited geographic focus outside North America",
+          "opportunities": "Expansion into emerging markets, increasing investments in new technologies",
+          "threats": "Market volatility, regulatory changes"
+        }
+      },
+      {
+        "fund_name": "Polsky Deep Tech Ventures",
+        "details": {
+          "size": "20M",
+          "region": "North America",
+          "industry_focus": ["Deep Tech", "Data Science", "Clean Tech", "Life Sciences", "Quantum Technology"],
+          "investment_stage": "Early-Stage",
+          "year_founded": 2023,
+          "affiliated_university": "University of Chicago",
+          "parent_department": "Polsky Center for Entrepreneurship and Innovation",
+          "funding_source_type": "University Endowment, Grants",
+          "funding_source_amount": "20M",
+          "legal_entity_used_for_investments": "Limited Partnership"
+        },
+        "performance_metrics": {
+          "ROI": "N/A",
+          "IRR": "N/A",
+          "average_time_to_exit_years": "N/A",
+          "portfolio_company_survival_rate": "N/A",
+          "follow_on_funding_rate": "N/A",
+          "fundraising_efficiency": "N/A",
+          "number_of_portfolio_companies": 30,
+          "typical_investment_size_per_company": "250K",
+          "typical_investment_form": "Equity",
+          "average_annual_number_of_investments": 10,
+          "total_amount_invested_to_date": "5M"
+        },
+        "impact_metrics": {
+          "jobs_created": "N/A",
+          "economic_impact": "N/A"
+        },
+        "best_practices": {
+          "investment_criteria": "Innovative technology, strong team, potential for high impact",
+          "due_diligence_process": "Technical and market risk assessment, financial modeling, team evaluation",
+          "governance_and_oversight": "Monthly reviews, experienced advisory committee",
+          "support_services": "Sector-specific accelerators, mentoring, networking events, access to industry experts"
+        },
+        "qualitative_insights": {
+          "strengths": "Strong support system, integration with university resources, sector-specific expertise",
+          "weaknesses": "Relatively new, limited track record",
+          "opportunities": "Expansion into more scientific disciplines, attracting more global startups",
+          "threats": "Market volatility, technological obsolescence"
+        }
+      },
+      {
+        "fund_name": "Romulus Capital",
+        "details": {
+          "size": "150M",
+          "region": "North America",
+          "industry_focus": ["Technology", "Healthcare", "AI", "Big Data"],
+          "investment_stage": "Seed, Early-Stage",
+          "year_founded": 2008,
+          "affiliated_university": "Massachusetts Institute of Technology",
+          "parent_department": "Sloan School of Management",
+          "funding_source_type": "Alumni Donations, Private Investors",
+          "funding_source_amount": "150M",
+          "legal_entity_used_for_investments": "Limited Partnership"
+        },
+        "performance_metrics": {
+          "ROI": "N/A",
+          "IRR": "N/A",
+          "average_time_to_exit_years": 5,
+          "portfolio_company_survival_rate": "80%",
+          "follow_on_funding_rate": "60%",
+          "fundraising_efficiency": "N/A",
+          "number_of_portfolio_companies": 30,
+          "typical_investment_size_per_company": "0.1M - 4M",
+          "typical_investment_form": "Equity",
+          "average_annual_number_of_investments": 5,
+          "total_amount_invested_to_date": "N/A"
+        },
+        "impact_metrics": {
+          "jobs_created": 500,
+          "economic_impact": "200M"
+        },
+        "best_practices": {
+          "investment_criteria": "Strong team, market potential, innovative technology",
+          "due_diligence_process": "Comprehensive market analysis, financial modeling, team assessment",
+          "governance_and_oversight": "Monthly reviews, experienced investment committee",
+          "support_services": "Mentoring, networking events, access to industry experts"
+        },
+        "qualitative_insights": {
+          "strengths": "Strong network, experienced management team",
+          "weaknesses": "Limited industry focus",
+          "opportunities": "Expansion into emerging markets",
+          "threats": "Market volatility"
+        }
+      },
+      {
+        "fund_name": "Allston Venture Fund",
+        "details": {
+          "size": "6M",
+          "region": "North America",
+          "industry_focus": ["Technology", "Healthcare", "Consumer Products"],
+          "investment_stage": "Pre-seed",
+          "year_founded": 2019,
+          "affiliated_university": "Harvard University",
+          "parent_department": "Harvard Innovation Labs",
+          "funding_source_type": "Private Firms, Grants",
+          "funding_source_amount": "6M",
+          "legal_entity_used_for_investments": "Independent Fund"
+        },
+        "performance_metrics": {
+          "ROI": "Not Available",
+          "IRR": "Not Available",
+          "average_time_to_exit_years": "Not Available",
+          "portfolio_company_survival_rate": "Not Available",
+          "follow_on_funding_rate": "Not Available",
+          "fundraising_efficiency": "Not Available",
+          "number_of_portfolio_companies": 10,
+          "typical_investment_size_per_company": "Up to 750K",
+          "typical_investment_form": "Equity, Grants",
+          "average_annual_number_of_investments": 2,
+          "total_amount_invested_to_date": "Not Available"
+        },
+        "impact_metrics": {
+          "jobs_created": "Not Available",
+          "economic_impact": "Not Available"
+        },
+        "best_practices": {
+          "investment_criteria": "Innovative ideas, strong team, market potential",
+          "due_diligence_process": "Comprehensive analysis by investment committee",
+          "governance_and_oversight": "Independent investment committee with no Harvard employee involvement",
+          "support_services": "Mentoring, industry-specific roundtables, expert office hours"
+        },
+        "qualitative_insights": {
+          "strengths": "Strong network of backers, focused support for Harvard students",
+          "weaknesses": "Limited historical performance data",
+          "opportunities": "Expansion to support more diverse industries",
+          "threats": "Market volatility, competition from other university funds"
+        }
+      },
+      {
+        "fund_name": "Public Service Venture Fund",
+        "details": {
+          "size": "1.1M annually",
+          "region": "North America",
+          "industry_focus": ["Public Service", "Nonprofit", "Government"],
+          "investment_stage": "Seed",
+          "year_founded": "Not Available",
+          "affiliated_university": "Harvard University",
+          "parent_department": "Harvard Law School",
+          "funding_source_type": "University Funds, Donations",
+          "funding_source_amount": "1.1M annually",
+          "legal_entity_used_for_investments": "Funded by Harvard Law School"
+        },
+        "performance_metrics": {
+          "ROI": "Not Applicable",
+          "IRR": "Not Applicable",
+          "average_time_to_exit_years": "Not Applicable",
+          "portfolio_company_survival_rate": "Not Applicable",
+          "follow_on_funding_rate": "Not Applicable",
+          "fundraising_efficiency": "Not Applicable",
+          "number_of_portfolio_companies": 20,
+          "typical_investment_size_per_company": "Varies",
+          "typical_investment_form": "Grants",
+          "average_annual_number_of_investments": "Varies",
+          "total_amount_invested_to_date": "13.6M"
+        },
+        "impact_metrics": {
+          "jobs_created": "Not Available",
+          "economic_impact": "Not Available"
+        },
+        "best_practices": {
+          "investment_criteria": "Social justice focus, innovative and sustainable projects",
+          "due_diligence_process": "Evaluation of social impact and sustainability",
+          "governance_and_oversight": "Governing board oversight",
+          "support_services": "Fellowships, mentoring, support for public interest careers"
+        },
+        "qualitative_insights": {
+          "strengths": "Strong commitment to social impact, well-established in public service sector",
+          "weaknesses": "Limited to public service and nonprofit sectors",
+          "opportunities": "Expansion of fellowship programs",
+          "threats": "Funding sustainability, changing public policy"
+        }
+      },
+      {
+        "fund_name": "NYU Impact Investment Fund (NIIF)",
+        "details": {
+          "size": "Varies annually",
+          "region": "North America",
+          "industry_focus": ["Financial Inclusion", "Environment", "Healthcare", "Aging", "Education", "Food Systems"],
+          "investment_stage": "Early-Stage",
+          "year_founded": 2017,
+          "affiliated_university": "New York University",
+          "parent_department": "Stern School of Business, Wagner School of Public Service, NYU School of Law",
+          "funding_source_type": ["University Endowment", "Philanthropic Donations"],
+          "funding_source_amount": "Varies annually",
+          "legal_entity_used_for_investments": "Limited Liability Company (LLC)"
+        },
+        "performance_metrics": {
+          "ROI": "N/A",
+          "IRR": "N/A",
+          "average_time_to_exit_years": "N/A",
+          "portfolio_company_survival_rate": "80%",
+          "follow_on_funding_rate": "60%",
+          "fundraising_efficiency": "N/A",
+          "number_of_portfolio_companies": 4,
+          "typical_investment_size_per_company": "$30,000",
+          "typical_investment_form": "Equity",
+          "average_annual_number_of_investments": 1,
+          "total_amount_invested_to_date": "$120,000"
+        },
+        "impact_metrics": {
+          "jobs_created": "N/A",
+          "economic_impact": "N/A"
+        },
+        "best_practices": {
+          "investment_criteria": "Focus on social enterprises with high impact potential in targeted sectors.",
+          "due_diligence_process": "Comprehensive due diligence including market analysis, financial modeling, and legal review conducted by students from NYU's Stern, Wagner, and Law schools.",
+          "governance_and_oversight": "Investment decisions made by an Investment Committee comprising alumni and industry experts.",
+          "support_services": "Mentoring, networking events, and access to industry experts through the MIINT program."
+        },
+        "qualitative_insights": {
+          "strengths": "Strong interdisciplinary collaboration and hands-on experiential learning for students.",
+          "weaknesses": "Relatively small investment size and limited funding capacity.",
+          "opportunities": "Expansion of investment size and number of investments per year.",
+          "threats": "Market volatility and limited follow-on funding opportunities."
+        }
+      },
+      {
+        "fund_name": "Haas Impact Fund",
+        "details": {
+          "size": "Undisclosed",
+          "region": "North America",
+          "industry_focus": ["Climate", "Health", "Financial Access", "Renewable Energy"],
+          "investment_stage": "Early-Stage",
+          "year_founded": 2018,
+          "affiliated_university": "University of California, Berkeley",
+          "parent_department": "Haas School of Business",
+          "funding_source_type": "Donations, University Endowment",
+          "funding_source_amount": "Undisclosed",
+          "legal_entity_used_for_investments": "Fund Structure"
+        },
+        "performance_metrics": {
+          "ROI": "Undisclosed",
+          "IRR": "Undisclosed",
+          "average_time_to_exit_years": "Undisclosed",
+          "portfolio_company_survival_rate": "Undisclosed",
+          "follow_on_funding_rate": "Undisclosed",
+          "fundraising_efficiency": "Undisclosed",
+          "number_of_portfolio_companies": 20,
+          "typical_investment_size_per_company": "Up to $75,000",
+          "typical_investment_form": "Equity",
+          "average_annual_number_of_investments": 5,
+          "total_amount_invested_to_date": "Undisclosed"
+        },
+        "impact_metrics": {
+          "jobs_created": "Undisclosed",
+          "economic_impact": "Undisclosed"
+        },
+        "best_practices": {
+          "investment_criteria": "Impact-oriented startups with a focus on climate, health, financial access, and renewable energy",
+          "due_diligence_process": "Sourcing, diligence, and portfolio stewardship led by student Venture Partners",
+          "governance_and_oversight": "Annual Invest for Impact Pitch Competition for equity investment decisions",
+          "support_services": "Mentoring, expert network, and office space for award recipients"
+        },
+        "qualitative_insights": {
+          "strengths": "Strong emphasis on social impact, robust support from university and alumni network",
+          "weaknesses": "Limited disclosure of performance metrics",
+          "opportunities": "Expansion of investment amount and number of portfolio companies",
+          "threats": "Market volatility affecting early-stage impact investments"
+        }
+      },
+      {
+        "fund_name": "Yale Ventures",
+        "details": {
+          "size": "Not publicly disclosed",
+          "region": "North America",
+          "industry_focus": ["Technology", "Healthcare", "Life Sciences"],
+          "investment_stage": "Early-Stage, Growth-Stage",
+          "year_founded": 2022,
+          "affiliated_university": "Yale University",
+          "parent_department": "Office of the Vice Provost for Research",
+          "funding_source_type": ["Endowment", "Alumni Donations", "Grants"],
+          "funding_source_amount": "Not publicly disclosed",
+          "legal_entity_used_for_investments": "Limited Partnership"
+        },
+        "performance_metrics": {
+          "ROI": "Not publicly disclosed",
+          "IRR": "Not publicly disclosed",
+          "average_time_to_exit_years": "Not publicly disclosed",
+          "portfolio_company_survival_rate": "Not publicly disclosed",
+          "follow_on_funding_rate": "Not publicly disclosed",
+          "fundraising_efficiency": "Not publicly disclosed",
+          "number_of_portfolio_companies": 40,
+          "typical_investment_size_per_company": "500K - 2M",
+          "typical_investment_form": "Equity",
+          "average_annual_number_of_investments": 10,
+          "total_amount_invested_to_date": "Not publicly disclosed"
+        },
+        "impact_metrics": {
+          "jobs_created": "Not publicly disclosed",
+          "economic_impact": "Not publicly disclosed"
+        },
+        "best_practices": {
+          "investment_criteria": "Strong team, market potential, innovative technology",
+          "due_diligence_process": "Comprehensive market analysis, financial modeling, team assessment",
+          "governance_and_oversight": "Monthly reviews, experienced investment committee",
+          "support_services": "Mentoring, networking events, access to industry experts"
+        },
+        "qualitative_insights": {
+          "strengths": "Strong network, experienced management team",
+          "weaknesses": "Limited industry focus",
+          "opportunities": "Expansion into emerging markets",
+          "threats": "Market volatility"
+        }
+      },
+      {
+        "fund_name": "Tuck Social Venture Fund",
+        "details": {
+          "size": "100K",
+          "region": "North America",
+          "industry_focus": ["Clean Energy", "Healthcare", "Food and Agriculture", "Education", "Technology for Social Good"],
+          "investment_stage": "Early-Stage",
+          "year_founded": 2015,
+          "affiliated_university": "Dartmouth College",
+          "parent_department": "Tuck School of Business",
+          "funding_source_type": ["Alumni Contributions"],
+          "funding_source_amount": "100K",
+          "legal_entity_used_for_investments": "Limited Partnership"
+        },
+        "performance_metrics": {
+          "ROI": "N/A",
+          "IRR": "N/A",
+          "average_time_to_exit_years": "N/A",
+          "portfolio_company_survival_rate": "N/A",
+          "follow_on_funding_rate": "N/A",
+          "fundraising_efficiency": "N/A",
+          "number_of_portfolio_companies": 6,
+          "typical_investment_size_per_company": "25K",
+          "typical_investment_form": "Equity and Debt",
+          "average_annual_number_of_investments": 1,
+          "total_amount_invested_to_date": "150K"
+        },
+        "impact_metrics": {
+          "jobs_created": "N/A",
+          "economic_impact": "N/A"
+        },
+        "best_practices": {
+          "investment_criteria": "Social impact, motivated management team, operational excellence, institutional investor lead, value addition beyond capital",
+          "due_diligence_process": "Comprehensive market analysis, financial modeling, team assessment",
+          "governance_and_oversight": "Monthly reviews, experienced investment committee",
+          "support_services": "Mentoring, networking events, access to industry experts"
+        },
+        "qualitative_insights": {
+          "strengths": "Strong network, experienced management team",
+          "weaknesses": "Limited fund size",
+          "opportunities": "Expansion into emerging markets, collaboration with broader Dartmouth ecosystem",
+          "threats": "Market volatility"
+        },
+        "portfolio_companies": [
+          {
+            "name": "CollegeBacker",
+            "industry": "Education Technology",
+            "description": "Helps families create 529 college savings plans using robo-advisor technology.",
+            "investment_size": "25K"
+          },
+          {
+            "name": "Education Modified",
+            "industry": "Education Technology",
+            "description": "Supports teachers in managing diverse learning needs with data tracking and learning strategies.",
+            "investment_size": "25K"
+          },
+          {
+            "name": "Brightfield Transportation Solutions",
+            "industry": "Clean Energy",
+            "description": "Provides solar-driven charging solutions for electric vehicles.",
+            "investment_size": "25K"
+          },
+          {
+            "name": "Wasted*",
+            "industry": "Sustainability",
+            "description": "Transforms human waste into nutrients, reducing emissions and creating sustainable fertilizer.",
+            "investment_size": "25K"
+          },
+          {
+            "name": "New/Mode",
+            "industry": "Civic Tech",
+            "description": "Empowers people and communities to participate in decisions affecting their lives through a multi-channel advocacy platform.",
+            "investment_size": "25K"
+          },
+          {
+            "name": "CNote",
+            "industry": "Financial Technology",
+            "description": "Impact investment platform funding small businesses, affordable housing, and economic development in underserved communities.",
+            "investment_size": "25K"
+          }
+        ]
+      },
+      {
+        "fund_name": "UVA LVG Seed Fund",
+        "details": {
+          "size": "10M",
+          "region": "North America",
+          "industry_focus": ["Technology", "Healthcare", "Biotechnology"],
+          "investment_stage": "Seed",
+          "year_founded": 2016,
+          "affiliated_university": "University of Virginia",
+          "parent_department": "Darden School of Business",
+          "funding_source_type": "University Endowment, Alumni Donations",
+          "funding_source_amount": "10M",
+          "legal_entity_used_for_investments": "Limited Partnership"
+        },
+        "performance_metrics": {
+          "ROI": "N/A",
+          "IRR": "N/A",
+          "average_time_to_exit_years": "N/A",
+          "portfolio_company_survival_rate": "N/A",
+          "follow_on_funding_rate": "N/A",
+          "fundraising_efficiency": "N/A",
+          "number_of_portfolio_companies": 24,
+          "typical_investment_size_per_company": "250K",
+          "typical_investment_form": "Equity",
+          "average_annual_number_of_investments": 5,
+          "total_amount_invested_to_date": "6M"
+        },
+        "impact_metrics": {
+          "jobs_created": "N/A",
+          "economic_impact": "N/A"
+        },
+        "best_practices": {
+          "investment_criteria": "Promising new ventures from UVA research portfolio",
+          "due_diligence_process": "Detailed evaluation of market opportunity, technology, competition, financial model, and team",
+          "governance_and_oversight": "Independent Seed Fund Committee comprised of experienced UVA alumni in early-stage investing and startup development",
+          "support_services": "Mentoring, workshops, legal support, connections with venture professionals"
+        },
+        "qualitative_insights": {
+          "strengths": "Strong alignment with university research and innovation, experienced management team, robust support network",
+          "weaknesses": "Limited fund size compared to industry peers",
+          "opportunities": "Potential to scale up funding sources and expand industry focus",
+          "threats": "Market volatility, competition from larger venture funds"
+        }
+      },
+      {
+        "fund_name": "Lang Fund",
+        "details": {
+          "size": "Varies annually",
+          "region": "North America",
+          "industry_focus": ["Technology", "Healthcare", "Various"],
+          "investment_stage": "Pre-seed, Seed",
+          "year_founded": 1996,
+          "affiliated_university": "Columbia University",
+          "parent_department": "Eugene M. Lang Entrepreneurship Center",
+          "funding_source_type": "Endowment, Alumni Donations",
+          "funding_source_amount": "1M initial gift",
+          "legal_entity_used_for_investments": "Limited Partnership"
+        },
+        "performance_metrics": {
+          "ROI": "Not publicly disclosed",
+          "IRR": "Not publicly disclosed",
+          "average_time_to_exit_years": "Not publicly disclosed",
+          "portfolio_company_survival_rate": "Not publicly disclosed",
+          "follow_on_funding_rate": "High, based on historical data",
+          "fundraising_efficiency": "Not publicly disclosed",
+          "number_of_portfolio_companies": 75,
+          "typical_investment_size_per_company": "50k-100k",
+          "typical_investment_form": "Equity",
+          "average_annual_number_of_investments": 5-10,
+          "total_amount_invested_to_date": "Varies"
+        },
+        "impact_metrics": {
+          "jobs_created": "Not publicly disclosed",
+          "economic_impact": "Significant, through company growth and success"
+        },
+        "best_practices": {
+          "investment_criteria": "Post-revenue with at least 6 months of customer data, strong team, market potential",
+          "due_diligence_process": "Comprehensive market analysis, financial modeling, team assessment",
+          "governance_and_oversight": "Monthly reviews, experienced investment committee",
+          "support_services": "Mentoring, networking events, access to industry experts"
+        },
+        "qualitative_insights": {
+          "strengths": "Strong network, experienced management team, access to Columbia resources",
+          "weaknesses": "Limited public disclosure of performance metrics",
+          "opportunities": "Expansion into emerging markets, leveraging Columbia's global network",
+          "threats": "Market volatility, economic downturns"
+        }
       }
     ]
-  }
-  
+}
+
